@@ -3,12 +3,12 @@ An easy and basic Kotlin based JSON handler with minimum functionalities.
 
 ## Table of Contents
   - [Capability](https://github.com/AjithSelvan/JSON-OPERATOR/blob/main/README.md#capability)
-  - Supported Functionality
-  - Bulid With
-  - Usage
-  - Methods
-  - IMPORTANT REQUIREMENT
-  - How to Run
+  - [Supported Functionality](https://github.com/AjithSelvan/JSON-OPERATOR/blob/main/README.md#supported-functionality)
+  - [Bulid With](https://github.com/AjithSelvan/JSON-OPERATOR/blob/main/README.md#bulid-with)
+  - [Usage](https://github.com/AjithSelvan/JSON-OPERATOR/blob/main/README.md#usage)
+  - [Methods](https://github.com/AjithSelvan/JSON-OPERATOR/blob/main/README.md#methods)
+  - [IMPORTANT REQUIREMENT](https://github.com/AjithSelvan/JSON-OPERATOR/blob/main/README.md#important-requirement)
+  - [How to Run])(https://github.com/AjithSelvan/JSON-OPERATOR/blob/main/README.md#how-to-run)
 ## Capability
   This module works only on `Windows` and won't work on any other development platform
 
