@@ -59,6 +59,8 @@ An easy and basic Kotlin based JSON handler with minimum functionalities.
   
   - 6 . ` findkey(Key : Any) : String? ` pass key value to get the json string.
   
+  - 7 . ` deleteAllAndReset():Boolean ` deletes all files and initialization starts from first, returns boolean value true if success else false .
+  
 ## IMPORTANT REQUIREMENT
 
    **GSON open-source lib is use to parse Json from converting hashmap to Json and from Json to hashamap**.
