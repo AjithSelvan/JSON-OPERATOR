@@ -55,4 +55,6 @@ An easy and basic Kotlin based JSON handler with minimum functionalities.
   - 6 . ` findkey(Key : Any) : String? ` pass key value to get the json string.
   
 ## IMPORTANT REQUIREMENT
-   -GSON is use-
+
+   **GSON open-source lib is use to parse Json from converting hashmap to Json and from Json to hashamap**.
+   So, GSON is one of the basic requirement for this module , you can get it form [here](https://github.com/google/gson) and configure it.
