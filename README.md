@@ -2,7 +2,7 @@
 An easy and basic Kotlin based JSON handler with minimum functionalities.
 
 ## Table of Contents
-  - Capability
+  - [Capability](https://github.com/AjithSelvan/JSON-OPERATOR/blob/main/README.md#capability)
   - Supported Functionality
   - Bulid With
   - Usage
