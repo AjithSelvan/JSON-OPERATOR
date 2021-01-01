@@ -14,7 +14,7 @@ An easy and basic Kotlin based JSON handler with minimum functionalities.
   - [x] Read by key
   - [x] Read by file
   - [x] Delete by File
-  - [ ] Delete by key
+  - [ ] Delete by key:cry:
   - [ ] TTL prop
  
 ## Bulid With
