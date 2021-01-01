@@ -2,20 +2,25 @@
 An easy and basic Kotlin based JSON handler with minimum functionalities.
 
 ## Table of Contents
-  1.Capability
-
+  - Capability
+  - Supported Functionality
+  - Bulid With
+  - Usage
+  - Methods
+  - IMPORTANT REQUIREMENT
+  - How to Run
 ## Capability
   This module works only on `Windows` and won't work on any other development platform
 
 ## Supported Functionality
-  - [x] Create a JSON file:sunglasses:
-  - [x] HashMap to JSON:wink:
-  - [x] JSON to HashMap:wink:
-  - [x] Read by key:wink:
-  - [x] Read by file:wink:
-  - [x] Delete by File:wink:
-  - [ ] Delete by key:cry:
-  - [ ] TTL prop:cry:
+  - [x] Create a JSON file
+  - [x] HashMap to JSON
+  - [x] JSON to HashMap
+  - [x] Read by key
+  - [x] Read by file
+  - [x] Delete by File
+  - [ ] Delete by key
+  - [ ] TTL prop
  
 ## Bulid With
   - [Kotlin](https://kotlinlang.org/)
