@@ -8,17 +8,17 @@ An easy and basic Kotlin based JSON handler with minimum functionalities.
   This module works only on `Windows` and won't work on any other development platform
 
 ## Supported Functionality
-  - [x] Create a JSON file
-  - [x] HashMap to JSON
-  - [x] JSON to HashMap
-  - [x] Read by key
-  - [x] Read by file
-  - [x] Delete by File
+  - [x] Create a JSON file:sunglasses:
+  - [x] HashMap to JSON:wink:
+  - [x] JSON to HashMap:wink:
+  - [x] Read by key:wink:
+  - [x] Read by file:wink:
+  - [x] Delete by File:wink:
   - [ ] Delete by key:cry:
-  - [ ] TTL prop
+  - [ ] TTL prop:cry:
  
 ## Bulid With
-  - Kotlin
+  - [Kotlin](https://kotlinlang.org/)
   
 ## Usage
   - 1 . Move the `Json.kt` file into your root class directory .
@@ -58,3 +58,7 @@ An easy and basic Kotlin based JSON handler with minimum functionalities.
 
    **GSON open-source lib is use to parse Json from converting hashmap to Json and from Json to hashamap**.
    So, GSON is one of the basic requirement for this module , you can get it form [here](https://github.com/google/gson) and configure it.
+   
+## How to Run.
+  - 1 . Compile the Json.kt file by following [this](https://kotlinlang.org/docs/tutorials/command-line.html)
+  - 2 . if you use IntelliJ IDEA then clone the repo and run directly .[intelliJ](https://www.jetbrains.com/help/idea/kotlin.html)
